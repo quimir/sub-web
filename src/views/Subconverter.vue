@@ -210,7 +210,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://suc.v2rayssr.com/sub?" }],
+        backendOptions: [{ value: "http://qyy.changbaiqi.top//sub?" }],
         remoteConfig: [
           {
             label: "universal",
